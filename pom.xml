@@ -41,7 +41,7 @@
 				 <version>3.10.1</version>
 				<configuration>
 					<includes>
-            					<include>**/.java</include>
+            					<include>**/*.java</include>
           				</includes>
 					<source>1.8</source>
 					<target>1.8</target>
