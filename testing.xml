@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name ="Automating Sharp Spring Data">
+
+    <test name="OpenCartTest">
+        <classes>
+            <class name="base.Market_automation_script"/>
+        </classes>
+    </test>
+</suite>

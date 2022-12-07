@@ -32,7 +32,7 @@ public class Market_automation_script extends BaseTests {
         salesPage.downloadCSV_File();
 
         //waiting for csv file to complete download
-        Thread.sleep(5000);
+        Thread.sleep(7000);
 //        salesPage.renameFile();
         salesPage.createCSVFIle();
 //        salesPage.deleteDownloadedCSV_File();

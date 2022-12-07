@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeed77df-a6aa-4762-88ce-ce3a1216b91e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1670399068601.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1670399164000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670399257706.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/Market_automation_script.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/Market_automation_script.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +32,19 @@
     </option>
   </component>
   <component name="ProjectId" id="2Hd5uEhNBueXL4CzQdhFxXFlsPX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cadence" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -47,6 +55,7 @@
       <recent name="base" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dmangena\Documents\workspace_\market_automation_script" />
       <recent name="C:\Users\dmangena\Documents\workspace_\market_automation_script\resources\chromedriver" />
     </key>
   </component>
@@ -120,6 +129,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668723628874">
       <screen x="0" y="0" width="1536" height="824" />
@@ -133,22 +145,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1668613495487" />
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1669412310709">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1670399244728">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1669412310709" />
-    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1669412310709">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670399244728" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1670399244728">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1669412310709" />
-    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1669412310709">
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1670399244728" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1670399244728">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1669412310709" />
-    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1669412310709">
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1670399244728" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1670399244728">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1669412310709" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1670399244728" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1668756139547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
