@@ -11,9 +11,13 @@ import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
 import pages.HomePage;
 import pages.LoginPage;
 import pages.SalesPage;
+//import pages.HomePage;
+//import pages.LoginPage;
+//import pages.SalesPage;
 
 import java.io.File;
 import java.io.IOException;
@@ -36,7 +40,7 @@ public class BaseTests {
         System.setProperty("webdriver.chrome.driver","resources/chromedriver/chromedriver.exe");
         driver = new ChromeDriver(options);
         driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(25, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(2, TimeUnit.MINUTES);
         driver.get(BASEURL);
 
         homePage = new HomePage(driver);

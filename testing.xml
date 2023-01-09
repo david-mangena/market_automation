@@ -2,7 +2,7 @@
 
 <suite name ="Automating Sharp Spring Data">
 
-    <test name="OpenCartTest">
+    <test name="Automating">
         <classes>
             <class name="base.Market_automation_script"/>
         </classes>

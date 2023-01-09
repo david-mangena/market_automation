@@ -12,6 +12,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 
 
 public class SalesPage {
@@ -56,15 +57,16 @@ public class SalesPage {
         driver.findElement(More_menu).click();
     }
 
-    public void ExportOpportunitiesToCSV(){
+    public void ExportOpportunitiesToCSV() throws InterruptedException {
         driver.findElement(ExportOpportunitiesToCSV).click();
     }
 
-    public void clickOnExportManager() {
+    public void clickOnExportManager() throws InterruptedException {
         ArrayList<String> tabs2 = new ArrayList<>(driver.getWindowHandles());
         driver.switchTo().window(tabs2.get(0));
 //        driver.close();
         driver.switchTo().window(tabs2.get(1));
+        Thread.sleep(6000);
         driver.findElement(ExportManager).click();
     }
 
