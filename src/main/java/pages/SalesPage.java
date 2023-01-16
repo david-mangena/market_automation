@@ -107,8 +107,10 @@ public class SalesPage {
         }
     }
 
-    public void downloadCSV_File(){
-        List<WebElement> li = driver.findElements(By.className("listName"));;
+    public void downloadCSV_File() throws InterruptedException {
+        Thread.sleep(3000);
+        driver.navigate().refresh();
+        List<WebElement> li = driver.findElements(By.className("listName"));
         li.get(0).click();//If there are only two such element, here 1 is index of 2nd element in list returned.
     }
 

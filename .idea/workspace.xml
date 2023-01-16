@@ -2,75 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeed77df-a6aa-4762-88ce-ce3a1216b91e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/azureSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jrt_fs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1670586981593.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1670587317420.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1670587430831.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1671013536748.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1671013801240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670586579838.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670586698858.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670586774076.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670587540453.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670994236788.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1671015513057.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1671029507659.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1671029722479.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshots/Passed/test_1670995079965.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chromedriver/LICENSE.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1673291632554.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1673857078616.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669359740617.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669359890962.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669359970369.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669360491103.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669360944350.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669361020859.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669361101919.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669362098453.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669362256728.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669363203144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669363405585.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669373879740.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669374264160.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669374831601.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669374993591.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669377343377.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669409577142.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669409768506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669410577469.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1669411527775.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1670399068601.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/marketAutomationScript_1670399164000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Failed/tearDownTest_1669363266720.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669360626825.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669361214776.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669361476830.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669362340727.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669363535198.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669374409416.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669374648082.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669377641801.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669377707567.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669377792046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669377903420.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669378026898.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669378111909.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669378363231.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669410723227.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669412225455.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1669412320481.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670399257706.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/chromedriver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/resources/chromedriver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670586579838.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670586698858.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670586774076.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670587540453.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1670994236788.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1671015513057.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1671029507659.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/marketAutomationScript_1671029722479.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/screenshots/Passed/test_1670995079965.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/SalesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SalesPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/Market_automation_script.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/Market_automation_script.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/SalesPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/marketing_automation_script.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/Market_automation_script.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/jdk-11/lib/jrt-fs.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -122,7 +70,7 @@
       <recent name="C:\Users\dmangena\Documents\workspace_\market_automation_script\resources\chromedriver" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.base">
+  <component name="RunManager" selected="TestNG.Market_automation_script">
     <configuration name="Market_automation_script" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="marketing_automation_script" />
       <extension name="coverage">
@@ -176,8 +124,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.base" />
         <item itemvalue="TestNG.Market_automation_script" />
+        <item itemvalue="TestNG.base" />
         <item itemvalue="TestNG.Market_automation_script.marketAutomationScript" />
       </list>
     </recent_temporary>
@@ -196,6 +144,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1673855186686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1673855186686" />
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668723628874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -208,22 +160,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1670571047145" />
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1672912305275">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1673859181503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1672912305275" />
-    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1672912305274">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1673859181503" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1673859181503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1672912305274" />
-    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1672912305274">
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1673859181503" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1673859181503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1672912305274" />
-    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1672912305275">
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1673859181503" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1673859181503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1672912305275" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1673859181503" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1668756139547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
